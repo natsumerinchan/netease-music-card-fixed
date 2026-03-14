@@ -26,7 +26,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REFS: ${{ github.ref }}
-          USER_ID: 1755813132
+          USER_ID: 283433277
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
           REPO: "netease-music-card-fixed"
-          AUTHOR: "luyanci"
+          AUTHOR: "高町那美"
